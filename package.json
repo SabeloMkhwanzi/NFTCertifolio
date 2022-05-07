@@ -34,5 +34,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@nomiclabs/hardhat-etherscan": "^3.0.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@openzeppelin/contracts": "^4.6.0",
+    "chai": "^4.3.6",
+    "dotenv": "^16.0.0",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.6.5",
+    "hardhat": "^2.9.3",
+    "install": "^0.13.0",
+    "npm": "^8.9.0",
+    "npx": "^10.2.2"
   }
 }
